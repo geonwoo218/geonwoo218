@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=170&section=header&text=Welcom%20to-nl-my%20Github&fontSize=50"/>
 
-<a href="https://bolder-quail-65f.notion.site/8de04e0543cc480c91f4ec8a31ea05b9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white%22/></a>
-<a href="https://www.instagram.com/h4nz1._.0815/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white%22/></a>
-
-
-
+<a href="https://www.notion.so/f6aad20013564195b080ddc97f469e7f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white%22/></a>
 
 <!--
 **geonwoo218/geonwoo218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
